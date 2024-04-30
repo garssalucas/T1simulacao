@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Escalonador
+comment1.params=
+comment1.target=Escalonador()
+comment2.params=tipoEvento\ tempoMinAtendimento\ tempoMaxAtendimento\ tempoGlobal\ indiceF\ indiceP
+comment2.target=void\ addEvento(char,\ int,\ int,\ double,\ int,\ int)
+comment3.params=min\ max
+comment3.target=double\ agendaEvento(int,\ int)
+comment4.params=
+comment4.target=double\ pseudos()
+comment5.params=
+comment5.target=double\ getProximo()
+comment6.params=
+comment6.target=void\ nextPseudo()
+comment7.params=
+comment7.target=int\ getNumeroPseusdosGerados()
+comment8.params=
+comment8.target=void\ imprimirTodosEventos()
+numComments=9
